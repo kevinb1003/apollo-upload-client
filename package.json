@@ -23,9 +23,6 @@
     "react",
     "native"
   ],
-  "files": [
-    "lib"
-  ],
   "main": "lib",
   "sideEffects": false,
   "engines": {
